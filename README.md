@@ -1,5 +1,4 @@
-# MarkDown
-MarkDown help
+# MarkDown help
 
 Шпаргалка по Markdown 
 ---------------------
