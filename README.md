@@ -1,6 +1,4 @@
-# Page
-
-## MarkDown help
+# MarkDown help
 
 ### Шпаргалка по языку разметки Markdown
 
